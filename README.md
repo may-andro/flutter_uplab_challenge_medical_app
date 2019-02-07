@@ -1,16 +1,18 @@
-# flutter_uplab_onboarding
+# UpLabs Challenge
 
-A new Flutter application.
+A new Flutter application based on Dribble Challenge at : https://www.uplabs.com/posts/home-to-start-activity.
 
-## Getting Started
+## Design Credit
+https://www.uplabs.com/nashatwork
 
-This project is a starting point for a Flutter application.
+## Expected Design
+![preview](https://user-images.githubusercontent.com/16761273/52356391-20f71e00-2a5a-11e9-84f4-c470e89c6f78.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Implemented Design
+![ezgif com-optimize 2](https://user-images.githubusercontent.com/16761273/52357878-f3f83a80-2a5c-11e9-996a-089209895a3e.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Concept Used
+1. Animations
+2. CustomClipper
+4. Canvas
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
