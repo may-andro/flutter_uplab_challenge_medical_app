@@ -1,15 +1,15 @@
 # UpLabs Challenge
 
-A new Flutter application based on Dribble Challenge at : https://www.uplabs.com/posts/home-to-start-activity.
+A new Flutter application based on Uplabs Challenge at : https://www.uplabs.com/posts/login-page-loading-fb74e4c5-008a-41e3-ae95-76c27c36faf1.
 
 ## Design Credit
-https://www.uplabs.com/nashatwork
+https://www.uplabs.com/nasrinkhodatars
 
 ## Expected Design
-![preview](https://user-images.githubusercontent.com/16761273/52356391-20f71e00-2a5a-11e9-84f4-c470e89c6f78.gif)
+![preview 1](https://user-images.githubusercontent.com/16761273/52398237-7117c400-2ade-11e9-9a61-ee0a27e81024.gif)
 
 ## Implemented Design
-![ezgif com-optimize 2](https://user-images.githubusercontent.com/16761273/52357878-f3f83a80-2a5c-11e9-996a-089209895a3e.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/16761273/52398215-5ba29a00-2ade-11e9-89da-dab362b8f348.gif)
 
 ## Concept Used
 1. Animations
